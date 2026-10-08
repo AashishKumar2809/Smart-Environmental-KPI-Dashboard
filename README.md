@@ -286,8 +286,14 @@ The three most recent spikes per metric appear in the **Active Alerts** section.
 
 ## 👤 Author
 
+**Aashish Kumar**
+
+- GitHub: [@AashishKumar2809](https://github.com/AashishKumar2809)
+- LinkedIn: [Aashish Kumar](https://www.linkedin.com/in/aashish-kumar28)
+- Email: aashishbharmoria.pu@gmail.com
+
 Built as a portfolio project demonstrating real-world Python engineering:
-**ETL pipeline · SQLite DB design · ML forecasting · Streamlit dashboards · Streamlit Cloud deployment.**
+**ETL pipeline · SQLite DB design · ML forecasting · Streamlit dashboards.**
 
 ---
 
