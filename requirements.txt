@@ -1,0 +1,9 @@
+# Smart Environmental KPI Dashboard — Python Dependencies
+# Compatible with Python 3.10 – 3.13
+# Pin minor versions for reproducible installs.
+
+streamlit>=1.40.2
+pandas>=2.2.3
+numpy>=2.1.0
+plotly>=5.24.1
+scikit-learn>=1.6.0
